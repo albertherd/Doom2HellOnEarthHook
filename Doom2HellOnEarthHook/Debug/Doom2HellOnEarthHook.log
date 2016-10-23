@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\albert\documents\visual studio 2015\projects\doom2hellonearthhook\doom2hellonearthhook\main.c(37): warning C4090: 'function': different 'const' qualifiers
+c:\users\albert\documents\visual studio 2015\projects\doom2hellonearthhook\doom2hellonearthhook\main.c(38): warning C4090: 'function': different 'const' qualifiers
+c:\users\albert\documents\visual studio 2015\projects\doom2hellonearthhook\doom2hellonearthhook\main.c(39): warning C4090: 'function': different 'const' qualifiers
+c:\users\albert\documents\visual studio 2015\projects\doom2hellonearthhook\doom2hellonearthhook\main.c(40): warning C4090: 'function': different 'const' qualifiers
+c:\users\albert\documents\visual studio 2015\projects\doom2hellonearthhook\doom2hellonearthhook\main.c(41): warning C4090: 'function': different 'const' qualifiers
+  Doom2HellOnEarthHook.vcxproj -> C:\Users\Albert\Documents\Visual Studio 2015\Projects\Doom2HellOnEarthHook\Debug\Doom2HellOnEarthHook.exe
